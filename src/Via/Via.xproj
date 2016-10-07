@@ -14,6 +14,7 @@
   </PropertyGroup>
   <PropertyGroup>
     <SchemaVersion>2.0</SchemaVersion>
+    <ApplicationInsightsResourceId>/subscriptions/80fc2fa1-230b-469b-afc4-ac07c5c661e9/resourcegroups/Default-ApplicationInsights-CentralUS/providers/microsoft.insights/components/VIA</ApplicationInsightsResourceId>
   </PropertyGroup>
   <ItemGroup>
     <DnxInvisibleContent Include="bower.json" />
